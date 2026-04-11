@@ -1,17 +1,19 @@
 ### Hi, I'm Raffa! 👋
 
 <p style="margin: 20px">
-I'm a web development enthusiast and a dev in the building. When not coding, you'll find me hitting the trails or biking. My dogs are my walking buddies!
+I'm a web development enthusiast building my path as a developer.
+When I'm not coding, you'll find me hitting the trails or biking — usually with my dogs as my walking buddies 🐾
 
-🚀 I'm currently on a journey to infinity and beyond, exploring the vast universe of web development.
-
+Currently exploring the world of web development while building real projects and evolving my skills.
 
 ### What I'm up to:
 
-- 🔭 Working on developing my programming and soft skills.
-- 🌱 Learning TypeScript, Node.js, and leveling up my JS and React.
+- 🔭 Building an end-to-end data project with AI-driven insights.
+- 🌱 Improving my skills in TypeScript, Node.js, and modern JavaScript/React development.
 
 </p>
+
+🚀 To infinity and Beyond!!! 
 
 ### Let's Connect:
 
