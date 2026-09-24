@@ -1,4 +1,4 @@
-# Olá, eu sou a Rafaela 👋
+# Olá, eu sou a Rafaela Freitas!
 
 Sou entusiasta de desenvolvimento web e estou construindo minha trajetória como desenvolvedora por meio de projetos, experimentação e aprendizado contínuo.
 
@@ -10,19 +10,20 @@ Quando não estou programando, provavelmente estou em alguma trilha ou jogando x
 
 ---
 
-## 🧭 Explorando no momento
+## Explorando no momento
 
-Atualmente estou focada em desenvolver e aprofundar meus conhecimentos em desenvolvimento web moderno e engenharia de software.
+Atualmente estou focada em desenvolver e aprofundar meus conhecimentos em desenvolvimento fullstack e engenharia de software.
 
-* Construindo o **TrackeD**, um sistema para gestão e rastreabilidade de ativos utilizando Python, FastAPI e PostgreSQL.
-* Desenvolvendo projetos com **React, TypeScript e Next.js**.
+* Aprendendo **JAVA + IA** participando da imersão ElasTech - JAVA+IA  
 * Estudando **engenharia de software, arquitetura, bancos de dados e QA**.
+* Construindo o **TrackeD**, um sistema para gestão e rastreabilidade de ativos utilizando Python, FastAPI e PostgreSQL.
 * Explorando temas como **cloud, dados, IA e qualidade de software**.
+* Evoluindo projetos com **React, TypeScript e Next.js**.
 * Aplicando o que estudo por meio de projetos práticos, buscando conectar teoria e prática.
 
 ---
 
-## 🏔️ Como encaro o desenvolvimento
+## 
 
 Vejo desenvolvimento como uma jornada.
 
@@ -36,7 +37,7 @@ Explorar → Construir → Testar → Aprender → Evoluir
 
 ---
 
-## 🛠️ Tecnologias e interesses
+## Tecnologias e interesses
 
 ### Frontend
 
@@ -44,34 +45,16 @@ React · TypeScript · JavaScript · Next.js · HTML · CSS · Tailwind CSS
 
 ### Backend e Dados
 
-Python · FastAPI · REST APIs · PostgreSQL · SQL
+Python · FastAPI · REST APIs · PostgreSQL · SQL 
 
 ### Engenharia
 
 Engenharia de Software · Arquitetura de Software · QA · Testes · Git · Métodos Ágeis
 
-### Explorando
+### Explorando 
 
 AWS · JAVA · IA · Dados 
 
----
-
-## 📚 Sempre aprendendo
-
-Tenho buscado ampliar meus conhecimentos para além da escrita de código, entendendo como o software é planejado, projetado, construído, testado e evoluído.
-
-Alguns dos temas que estou explorando:
-
-* Arquitetura de software
-* System Design
-* Clean Code
-* Design Patterns
-* Estratégias de testes
-* Acessibilidade
-* UX/UI
-* SEO
-* Cloud Computing
-* Dados e IA
 
 ---
 
