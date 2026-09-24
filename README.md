@@ -52,7 +52,7 @@ Engenharia de Software · Arquitetura de Software · QA · Testes · Git · Mét
 
 ### Explorando
 
-AWS · IA · Dados · Observabilidade · Governança
+AWS · JAVA · IA · Dados 
 
 ---
 
@@ -83,6 +83,4 @@ Se quiser conversar sobre tecnologia, projetos, aprendizado ou os caminhos que n
 
 
 🚀 To infinity and Beyond!!! 
-
-### Let's Connect:
 
