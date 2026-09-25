@@ -1,13 +1,13 @@
-Teno experiência em desenvolvimento frontend e estou construindo minha trajetória  por meio de projetos e aprendizado contínuo.
+Me chamo Rafaela Freitas, possuo experiência em desenvolvimento de aplicações web e atualmente ampliando minha atuação para o desenvolvimento full stack. 
+Construindo minha trajetória por meio de projetos práticos, explorando novas tecnologias, enfrentando desafios e mantendo um aprendizado contínuo.
 
 Gosto de entender não apenas **o que** estou construindo, mas também **por quê**, explorando diferentes abordagens, aprendendo com desafios e transformando cada projeto em mais uma etapa da minha jornada.
 
 Quando não estou programando, provavelmente estou: 
 - em alguma trilha;
-- lendo um livro;
 - jogando xadrez;
-- montando um quebra-cabeças
-- andando de bicicleta
+- montando um quebra-cabeças;
+- andando de bicicleta;
 - brincando com meus dogs 🐾. 
 
 🇧🇷 **Português** · [🇺🇸 English](./README-en.md)
@@ -27,21 +27,15 @@ Atualmente estou focada em desenvolver e aprofundar meus conhecimentos em desenv
 
 ## Tecnologias e interesses
 
-### Frontend
+**Construindo com**
+React · TypeScript · JavaScript · Next.js · Python · FastAPI · REST APIs · PostgreSQL
 
-React · TypeScript · JavaScript · Next.js · HTML · CSS · Tailwind CSS
+**Aprofundando em**
+Engenharia de Software · Arquitetura · QA · Testes · Git · Métodos Ágeis
 
-### Backend e Dados
+**Explorando novos caminhos**
+AWS · Java · IA · Dados
 
-Python · FastAPI · REST APIs · PostgreSQL · SQL 
-
-### Engenharia
-
-Engenharia de Software · Arquitetura de Software · QA · Testes · Git · Métodos Ágeis
-
-### Explorando 
-
-AWS · JAVA · IA · Dados 
 
 ---
 
