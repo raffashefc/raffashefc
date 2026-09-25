@@ -1,11 +1,14 @@
-Me chamo Rafaela Freitas, possuo experiência em desenvolvimento de aplicações web e atualmente ampliando minha atuação para o desenvolvimento full stack. 
-Construindo minha trajetória por meio de projetos práticos, explorando novas tecnologias, enfrentando desafios e mantendo um aprendizado contínuo.
+Me chamo Rafaela Freitas, possuo experiência em desenvolvimento de aplicações web e atualmente amplio minha atuação para o desenvolvimento full stack,
+construindo minha trajetória por meio de projetos práticos, explorando novas tecnologias, enfrentando desafios e mantendo um aprendizado contínuo.
 
-Gosto de entender não apenas **o que** estou construindo, mas também **por quê**, explorando diferentes abordagens, aprendendo com desafios e transformando cada projeto em mais uma etapa da minha jornada.
+Gosto de entender não apenas **o que** estou construindo, mas também **o por quê**, explorando diferentes abordagens, aprendendo com desafios e transformando cada projeto 
+em uma oportunidade de explorar um problema, tomar decisões, testar ideias, lidar com restrições e entender o que pode ser melhorado.
 
----
+```
+Explorar → Construir → Testar → Aprender → Evoluir
+```
 
-Atualmente estou focada em desenvolver e aprofundar meus conhecimentos em desenvolvimento fullstack e engenharia de software.
+Focada em desenvolver, aprofundar conhecimentos e criar soluções digitais:
 
 * Aprendendo **JAVA + IA** participando da imersão ElasTech - JAVA+IA  
 * Estudando **engenharia de software, arquitetura, bancos de dados e QA**.
@@ -15,14 +18,6 @@ Atualmente estou focada em desenvolver e aprofundar meus conhecimentos em desenv
 * Aplicando o que estudo por meio de projetos práticos, buscando conectar teoria e prática.
 
 ---
-
-Cada projeto é uma oportunidade de explorar um problema, tomar decisões, testar ideias, lidar com restrições e entender o que pode ser melhorado.
-
-Tenho interesse não apenas no resultado, mas também no caminho percorrido para chegar até ele:
-
-```text
-Explorar → Construir → Testar → Aprender → Evoluir
-```
 
 **Construindo com**
 React · TypeScript · JavaScript · Next.js · Python · FastAPI · REST APIs · PostgreSQL
