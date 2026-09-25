@@ -1,20 +1,22 @@
 <br>
 
-<span align="justify">My name is <font color="#EFB05F">Rafaela Freitas</font>. I have experience in web development and am currently expanding my scope toward <font color="#EFB05D"><b>full-stack development</b></font>. I build my journey through hands-on projects, testing new technologies, and maintaining a mindset of continuous learning. I enjoy understanding not only <font color="#EFB05D"><b>what</b></font> I am building, but also <font color="#EFB05D"><b>why</b></font>. I strive to experiment with different approaches and turn every challenge into an opportunity to analyze problems, make decisions, work within constraints, and identify areas for improvement.</span>
+<p align="justify">
+My name is <b>Rafaela Freitas</b>, I have experience in web development and am currently expanding my scope toward <b>full-stack development</b>. I build my journey through hands-on projects, testing new technologies, and maintaining a mindset of continuous learning. I enjoy understanding not only <b>what</b> I am building, but also <b>why</b>. I strive to experiment with different approaches and turn every challenge into an opportunity to analyze problems, make decisions, work within constraints, and identify areas for improvement.
+</p>
 
-<font color="#EFB05D"><b>Explore → Build → Test → Learn → Evolve</b></font>
+**Explore → Build → Test → Learn → Evolve**
 
 <hr style="border: none; border-top: 3px solid #3A4638; margin: 20px 0;" />
 
-
 Currently, I am dedicated to building digital solutions and advancing across the following areas:
 
-* <font color="#EFB05D"><b>Software Engineering & Quality: Deepening my knowledge in software architecture, databases, and QA.</b></font>
-* <font color="#EFB05D"><b>Python Back-end: Building TrackeD (an asset management and traceability system) using FastAPI and PostgreSQL.</b></font>
-* <font color="#EFB05D"><b>Java + AI Specialization: Participating in the ElasTech Java + AI immersion (PagBank/SoulCode).</b></font>
-* <font color="#EFB05D"><b>Web Applications: Developing solutions within the JavaScript ecosystem.</b></font> 
+* **Software Engineering & Quality:** Deepening my knowledge in software architecture, databases, and QA.
+* **Java + AI Specialization:** Participating in the ElasTech Java + AI immersion (PagBank/SoulCode).
+* **Python Back-end:** Building TrackeD (an asset management and traceability system) using FastAPI and PostgreSQL.
+* **Web Applications:** Developing solutions within the JavaScript/TypeScript ecosystem.
 
 <br>
+
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -41,13 +43,10 @@ Currently, I am dedicated to building digital solutions and advancing across the
   <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
 </p>
 
-
-
 <hr style="border: none; border-top: 3px solid #3A4638; margin: 20px 0;" />
 
-
 <details>
-<summary><font color="#EFB05D"><b>🌱 git checkout -b hobbies/offline</b></font></summary>
+<summary><b>🌱 git checkout -b hobbies/offline</b></summary>
 
 <br>
 
@@ -58,6 +57,7 @@ When I'm away from the terminal, you can usually find me:
 * Riding my bicycle
 * Playing with my dogs
 </details>
+
 <br>
 
 <p align="left">
@@ -67,7 +67,6 @@ When I'm away from the terminal, you can usually find me:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
 
 [🇧🇷 Português](./README.md) · 🇺🇸 **English**
 
